@@ -62,7 +62,6 @@ class Solution:
                 rr = r - 1
                 while l < rr and height[rr] <= height[r]:
                     rr -= 1
-                r = rr
-                
-        return maxArea
+                r = rr 
+         return maxArea
         
