@@ -1,0 +1,7 @@
+# Tries
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 208 | Implement Trie (Prefix Tree) | Medium |
+| 211 | Design Add and Search Words Data Structure | Medium |
+| 212 | Word Search II | Hard |
